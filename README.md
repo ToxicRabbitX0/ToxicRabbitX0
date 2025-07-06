@@ -41,4 +41,8 @@ ALLOWED_ZONES=(
   "🇦🇪 UAE"
   "🇸🇦 Saudi Arabia"
 )
+```
 
+🔗 Contact Node
+📡 Telegram Only → @REDREPO
+🧠 Human-verified. All bots blocked.
