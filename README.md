@@ -18,7 +18,7 @@ echo "[!] Access Level: $ACCESS"
 
 [root@elite ~/ops]# ./deploy.sh --silent
 
-🔐 Entry Rules
+Entry Rules
 
 Modifier
 - We don’t sell tools.
@@ -43,6 +43,11 @@ ALLOWED_ZONES=(
 )
 ```
 
-🔗 Contact Node
-📡 Telegram Only → @REDREPO
-🧠 Human-verified. All bots blocked.
+┌────────────┐
+│ CONTACT 🛰️  │
+└────────────┘
+
+Telegram DM only: [@RED REPO](https://t.me/redrepo)
+
+Say what you want. Be direct. Skip small talk.
+
