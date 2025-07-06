@@ -1,11 +1,3 @@
-Great question — here's **exactly what to copy** to make your GitHub profile look like the one you sent in the image, but with your custom content.
-
----
-
-### ✅ Copy This ENTIRE `README.md` Content Below:
-
-Just **copy-paste** everything inside this box into your `README.md` file:
-
 ```markdown
 <h1 align="center">Welcome to Elite Digital 🛡️</h1>
 
@@ -109,20 +101,8 @@ When messaging:
 
 ### 🚀 Instructions
 
-1. Replace `YOUR_USERNAME` with your GitHub username in this line:
+1. Replace `ToxicRabbitX0` with your GitHub username in this line:
 
 ```markdown
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=ToxicRabbitX0E&show_icons=true&theme=radical" />
 ````
-
-2. Make a repo named **exactly** like your GitHub username.
-
-   👉 For example, if your GitHub username is `EliteXRed`, create a repo called `EliteXRed`.
-
-3. Paste this into the repo’s `README.md` file.
-
-4. GitHub will auto-detect it and make it your **profile readme**.
-
----
-
-Want me to **add badges, dark terminal icons**, or make a **banner image** for you too?
