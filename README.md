@@ -1,119 +1,44 @@
-```markdown
-<h1 align="center">Welcome to Elite Digital 🛡️</h1>
 
-```
+<h1 align="center"> RED REPO <img src="https://camo.githubusercontent.com/e3b21877674ca42f1dff5739d16eb5b1ba2812dcf64d2b9411f15595975a0776/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343237332f7265646861742d69636f6e2e737667" width="24"/>
+</h1>
 
-(root㉿elite)-\[\~]
-\$ cat elite-tools.nim
+```bash
+#!/bin/bash
+# ✦ High-risk digital actions initialized
 
-````
+echo "[+] Deletion modules loaded..."
+echo "[+] Strike simulators armed..."
+echo "[+] Web sanitizers online..."
 
-```nim
-proc initElite(): ToolKit =
-  result.Telegram = "https://t.me/redrepo"
-  result.Region = "USA, Canada, UK, Germany, UAE"
-  result.Tools = @["Deletion", "Strike", "Wipe"]
+TELEGRAM="@REDREPO"
+REGIONS=("US" "CA" "UK" "DE" "AE" "KSA")
+ACCESS="PRIVATE_ONLY"
 
-let myKit = initElite()
-````
+echo "[!] Access Level: $ACCESS"
 
-```
-(root㉿elite)-[~] 
-$
-```
+[root@elite ~/ops]# ./deploy.sh --silent
 
----
+🔐 Entry Rules
 
-## 🛡️ Elite Digital Tools — Private Access Only
+Modifier
+- We don’t sell tools.
+- We don’t talk without purpose.
++ Message with intent. Or don’t.
 
-> Welcome. If you’re here, you were either **invited** — or smart enough to find it.
-
-We build:
-
-* Silent tools
-* Invisible scripts
-* Total control over what was once *“not possible”*
-
----
-
-## 🔥 Popular Private Tools
-
-* 🚫 **WhatsApp Message Deletion Tool**
-  Delete **any message** from both sides — even **old ones**. No alerts. No time limit.
-
-* 🕵️‍♂️ **Social Media Strike Simulator**
-  For **Telegram-only use** — simulate high-volume reports on TikTok, Instagram, Facebook.
-
-* 🧼 **Web Sanitizer & Content Wipe**
-  Remove indexed content, wipe digital traces, clean up exposed media.
-
----
-
-## 🧬 Access Policy
-
-```diff
-- We don’t sell code
-- We don’t talk for free
-```
-
-When messaging:
-
-* State what you want
-* Where you are from
-* Why it matters
-
-🚫 Spam = Block
-🕵️ Trust = Verified Only
-
----
-
-## 📡 Contact
-
-> 📲 Telegram only — [@REDREPO](https://t.me/redrepo)
-> ❗ Verified buyers only. We check before speaking.
-
----
-
-## 🌍 Preferred Zones
-
-🇺🇸 USA & Canada
-🇬🇧 UK
-🇩🇪 Germany
-🇨🇭 Switzerland
-🇦🇪 UAE
-🇸🇦 Saudi Arabia
-
-> 💬 **We do not reply to spam from low-tier zones.**
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToxicRabbitX0&show_icons=true&theme=radical" />
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+When you reach out:
+What do you want?
+Where are you from?
+Why does it matter?
 
 
----
 
-### 👣 Traces Are Temporary — Silence Is Permanent.
+ALLOWED_ZONES=(
+  "🇺🇸 USA"
+  "🇨🇦 Canada"
+  "🇩🇪 Germany"
+  "🇨🇭 Switzerland"
+  "🇬🇧 UK"
+  "🇦🇪 UAE"
+  "🇸🇦 Saudi Arabia"
+)
 
-````
-
----
-
-### 🚀 Instructions
-
-1. Replace `ToxicRabbitX0` with your GitHub username in this line:
-
-```markdown
-<img src="https://github-readme-stats.vercel.app/api?username=ToxicRabbitX0E&show_icons=true&theme=radical" />
-````
