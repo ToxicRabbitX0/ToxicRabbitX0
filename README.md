@@ -91,6 +91,8 @@ When messaging:
   <img src="https://github-readme-stats.vercel.app/api?username=ToxicRabbitX0&show_icons=true&theme=radical" />
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ---
 
 ### 👣 Traces Are Temporary — Silence Is Permanent.
