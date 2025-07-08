@@ -47,7 +47,7 @@ ALLOWED_ZONES=(
 │ CONTACT 🛰️  │
 └────────────┘
 
-Telegram DM only: [@RED REPO](https://t.me/redrepo)
+Telegram: [@RED REPO](https://t.me/redrepo)
 
 Say what you want. Be direct. Skip small talk.
 
